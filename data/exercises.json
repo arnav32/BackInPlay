@@ -1,0 +1,184 @@
+{
+  "exercises": [
+    {
+      "id": "shoulder_flexion",
+      "name": "Shoulder Flexion Stretch",
+      "description": "Raise your left arm forward and up, keeping it straight. Good for shoulder mobility and rotator cuff recovery.",
+      "ailments": ["shoulder pain", "rotator cuff", "frozen shoulder", "shoulder stiffness", "shoulder injury"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftShoulder",
+      "resting_angle": 0,
+      "target_angle": 85,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 1 },
+        { "name": "hold", "duration": 5 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Start with arm at your side. Hold for 5 seconds, then raise your LEFT arm to shoulder height over 1 second. Hold for 5 seconds, then lower over 2 seconds."
+    },
+    {
+      "id": "bicep_curl",
+      "name": "Bicep Curl",
+      "description": "Standing bicep curl exercise. Strengthens biceps and improves arm strength. Great for arm rehabilitation.",
+      "ailments": ["arm weakness", "bicep pain", "elbow pain", "arm injury", "upper body weakness", "tennis elbow"],
+      "video_url": "/exercises/bicepcurlreal.mp4",
+      "tracked_joint": "leftElbow",
+      "resting_angle": 160,
+      "target_angle": 45,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 3 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Stand with arm relaxed at your side. Hold 5 seconds, then curl your LEFT arm up bending at the elbow over 2 seconds. Hold for 3 seconds, then lower slowly over 2 seconds."
+    },
+    {
+      "id": "squat",
+      "name": "Bodyweight Squat",
+      "description": "Standing squat exercise. Strengthens legs, glutes, and improves lower body mobility. Good for knee and hip rehabilitation.",
+      "ailments": ["leg weakness", "knee pain", "hip pain", "quad weakness", "glute weakness", "lower body rehab", "squat", "leg stiffness"],
+      "video_url": "/exercises/squatreal.mp4",
+      "tracked_joint": "leftKnee",
+      "resting_angle": 170,
+      "target_angle": 90,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 3 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Stand with feet shoulder-width apart. Hold 5 seconds, then squat down bending your knees over 2 seconds until thighs are parallel. Hold for 3 seconds, then stand back up over 2 seconds."
+    },
+    {
+      "id": "seated_arm_raise",
+      "name": "Seated Arm Raise",
+      "description": "Seated arm raise to shoulder height. Improves shoulder mobility and strengthens arm. Good for elbow and shoulder recovery.",
+      "ailments": ["elbow stiffness", "elbow surgery", "shoulder mobility"],
+      "video_url": "/exercises/ex2.mp4",
+      "tracked_joint": "leftShoulder",
+      "resting_angle": 0,
+      "target_angle": 85,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 1 },
+        { "name": "hold", "duration": 5 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Sit with arm relaxed at your side. Hold 5 seconds, then raise your LEFT arm vertically to shoulder height over 1 second. Hold for 5 seconds, then lower slowly over 2 seconds."
+    },
+    {
+      "id": "knee_extension",
+      "name": "Seated Knee Extension",
+      "description": "Straighten your leg while seated. Strengthens quadriceps and helps with knee recovery.",
+      "ailments": ["knee pain", "ACL", "MCL", "knee surgery", "knee stiffness", "quad weakness", "patella"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftKnee",
+      "resting_angle": 90,
+      "target_angle": 170,
+      "tolerance": 15,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 3 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Sit with knee bent. Hold 5 seconds, extend LEFT leg over 2 seconds until nearly straight. Hold 3 seconds, then lower over 2 seconds."
+    },
+    {
+      "id": "hip_flexor_stretch",
+      "name": "Standing Hip Flexor Stretch",
+      "description": "Lunge position stretch for hip flexors. Helps with hip pain and lower back issues.",
+      "ailments": ["hip pain", "hip flexor", "lower back pain", "hip stiffness", "sciatica", "hip surgery"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftHip",
+      "resting_angle": 160,
+      "target_angle": 140,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 5 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Stand upright. Hold 5 seconds, step into a lunge over 2 seconds. Hold stretch 5 seconds, return to standing over 2 seconds."
+    },
+    {
+      "id": "neck_rotation",
+      "name": "Gentle Neck Rotation",
+      "description": "Slowly turn your head side to side. Helps with neck stiffness and tension.",
+      "ailments": ["neck pain", "neck stiffness", "whiplash", "cervical", "neck tension", "headache"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftShoulder",
+      "resting_angle": 90,
+      "target_angle": 90,
+      "tolerance": 25,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 3 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Face forward. Hold 5 seconds, turn head slowly to one side over 2 seconds. Hold 3 seconds, return over 2 seconds."
+    },
+    {
+      "id": "ankle_circles",
+      "name": "Ankle Mobility Circles",
+      "description": "Rotate your ankle in circles. Good for ankle sprains and foot mobility.",
+      "ailments": ["ankle pain", "ankle sprain", "foot pain", "ankle stiffness", "plantar fasciitis"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftKnee",
+      "resting_angle": 170,
+      "target_angle": 90,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 1 },
+        { "name": "hold", "duration": 5 },
+        { "name": "lower", "duration": 1 }
+      ],
+      "instructions": "Stand with feet flat. Hold 5 seconds, lift LEFT foot over 1 second. Hold and rotate ankle 5 seconds, lower over 1 second."
+    },
+    {
+      "id": "wall_push_up",
+      "name": "Wall Push-Up",
+      "description": "Push-ups against a wall. Good for shoulder and chest strengthening with low impact.",
+      "ailments": ["shoulder weakness", "chest pain", "upper body weakness", "post surgery"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftElbow",
+      "resting_angle": 170,
+      "target_angle": 90,
+      "tolerance": 20,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 1 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Stand facing wall, arms straight. Hold 5 seconds, bend elbows over 2 seconds. Hold 1 second, push back over 2 seconds."
+    },
+    {
+      "id": "standing_quad_stretch",
+      "name": "Standing Quad Stretch",
+      "description": "Pull your heel toward your buttock while standing. Stretches front of thigh.",
+      "ailments": ["quad pain", "thigh pain", "leg stiffness", "runner knee"],
+      "video_url": "/exercises/reference-exercise.mp4",
+      "tracked_joint": "leftKnee",
+      "resting_angle": 170,
+      "target_angle": 45,
+      "tolerance": 15,
+      "phases": [
+        { "name": "ready", "duration": 5 },
+        { "name": "raise", "duration": 2 },
+        { "name": "hold", "duration": 5 },
+        { "name": "lower", "duration": 2 }
+      ],
+      "instructions": "Stand on right leg. Hold 5 seconds, pull LEFT heel toward buttock over 2 seconds. Hold 5 seconds, lower over 2 seconds."
+    }
+  ]
+}
